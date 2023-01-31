@@ -11,7 +11,7 @@ Practical applications could be using this for: <br>
 
 You can read the [Hugging Face Competition Page](https://huggingface.co/spaces/competitions/aiornot) for more context about the problem space.
 
-The data for this repository is available at this Fearless [S3 Bucket](https://s3.console.aws.amazon.com/s3/buckets/fearless-coi-pond?region=us-east-2&prefix=aiornot/).
+The data for this repository is available [here](https://drive.google.com/file/d/1zrM8_aMMWh6ixRdOT0AgtfoRArTis3Px/view?usp=sharing). You may have to request access from Eric DiMeo.
 
 If you don't have access to the Fearless AWS sandbox, contact Jacques Benter.
 
