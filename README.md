@@ -16,3 +16,15 @@ The data for this repository is available [here](https://drive.google.com/file/d
 If you don't have access to the Fearless AWS sandbox, contact Jacques Benter.
 
 If you have any questions at all, feel free to send a Slack message to Eric DiMeo or Nick Saccente!
+
+
+---
+
+## Nvidia Docker
+
+On systems with docker and an nvidial graphics card docker can be used!
+
+```
+docker build -t aiornot .
+docker run -it --gpus all --rm -p 8888:8888 -v "${PWD}":/home/jovyan/work aiornot
+```

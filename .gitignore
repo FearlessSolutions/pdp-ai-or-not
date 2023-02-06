@@ -1,0 +1,5 @@
+logs
+models
+data/train
+data/test
+notebooks/.ipynb_checkpoints
