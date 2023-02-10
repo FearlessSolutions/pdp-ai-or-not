@@ -1,0 +1,3 @@
+data/**/*.jpg
+models/*
+logs/*
